@@ -1,5 +1,5 @@
 <h2 dir="rtl">امیرحسین محمدی</h2>
-<h2 dir="rtl">comparison between oracle mysql sqlServer</h2>
+<h2 dir="rtl">comparison between oracle , mysql , sqlServer</h2>
 
 <div dir="rtl">
   Oracle: یک دیتابیس قدرتمند با امکانات گسترده برای سطوح بالای تجاری و محیط‌های حساس. هزینه بالای مالکیت و مصرف منابع سیستمی بیشتری دارد اما امنیت، پایداری و کارایی بالایی دارد.
